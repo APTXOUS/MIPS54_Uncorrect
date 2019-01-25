@@ -1,0 +1,35 @@
+# do {tb_compile.do}
+# Model Technology ModelSim PE vmap 10.4c Lib Mapping Utility 2015.07 Jul 20 2015
+# vmap xil_defaultlib msim/xil_defaultlib 
+# Modifying modelsim.ini
+# ** Warning: (vlog-159) Mode option -64 is not supported in this context and will be ignored.
+# 
+# Model Technology ModelSim PE vlog 10.4c Compiler 2015.07 Jul 20 2015
+# Start time: 01:56:43 on Jun 15,2018
+# vlog -64 -incr -work xil_defaultlib tb_func_synth.v ../../../../mips54.srcs/sim_1/imports/new/tb.v 
+# -- Compiling module dist_mem_gen_0
+# -- Compiling module CP0
+# -- Compiling module DIV
+# -- Compiling module DIVU
+# -- Compiling module MDU
+# -- Compiling module MULT
+# -- Compiling module MULTU
+# -- Compiling module RegFiles
+# -- Compiling module mips54
+# -- Compiling module pcreg
+# -- Compiling module ram__4
+# -- Compiling module sccomp_dataflow
+# -- Compiling module tb
+# -- Compiling module dist_mem_gen_0_dist_mem_gen_v8_0_10
+# -- Compiling module dist_mem_gen_0_dist_mem_gen_v8_0_10_synth
+# -- Compiling module dist_mem_gen_0_rom
+# -- Compiling module glbl
+# ** Warning: ../../../../mips54.srcs/sim_1/imports/new/tb.v(2): (vlog-2275) 'tb' already exists and will be overwritten.
+# 
+# -- Compiling module tb
+# 
+# Top level modules:
+# 	tb
+# 	glbl
+# End time: 01:56:44 on Jun 15,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 2

@@ -1,0 +1,81 @@
+# do {tb_simulate.do}
+# vsim -voptargs=""+acc"" -L unisims_ver -L secureip -L xil_defaultlib -lib xil_defaultlib xil_defaultlib.tb xil_defaultlib.glbl 
+# Start time: 01:56:52 on Jun 15,2018
+# //  ModelSim PE 10.4c Jul 20 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# Loading xil_defaultlib.tb
+# Loading xil_defaultlib.sccomp_dataflow
+# Loading xil_defaultlib.CP0
+# Loading unisims_ver.LUT6
+# Loading unisims_ver.LUT5
+# Loading unisims_ver.LUT4
+# Loading unisims_ver.LUT3
+# Loading unisims_ver.FDRE
+# Loading unisims_ver.LUT2
+# Loading unisims_ver.MUXF8
+# Loading unisims_ver.MUXF7
+# Loading unisims_ver.LUT1
+# Loading xil_defaultlib.ram__4
+# Loading unisims_ver.RAM256X1S
+# Loading xil_defaultlib.dist_mem_gen_0
+# Loading xil_defaultlib.dist_mem_gen_0_dist_mem_gen_v8_0_10
+# Loading unisims_ver.GND
+# Loading xil_defaultlib.dist_mem_gen_0_dist_mem_gen_v8_0_10_synth
+# Loading xil_defaultlib.dist_mem_gen_0_rom
+# Loading xil_defaultlib.MDU
+# Loading xil_defaultlib.DIV
+# Loading unisims_ver.CARRY4
+# Loading unisims_ver.FDCE
+# Loading xil_defaultlib.DIVU
+# Loading xil_defaultlib.MULT
+# Loading xil_defaultlib.MULTU
+# Loading xil_defaultlib.pcreg
+# Loading xil_defaultlib.mips54
+# Loading xil_defaultlib.RegFiles
+# Loading unisims_ver.LDCE
+# Loading xil_defaultlib.glbl
+# ** Warning: (vsim-3017) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Too few port connections. Expected 9, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/uut File: tb_func_synth.v
+# ** Error: (vsim-3063) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): Port 'clk_in' not found in the connected module (1st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/uut File: tb_func_synth.v
+# ** Error: (vsim-3063) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): Port 'reset' not found in the connected module (2nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/uut File: tb_func_synth.v
+# ** Error: (vsim-3063) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): Port 'inst' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/uut File: tb_func_synth.v
+# ** Error: (vsim-3063) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): Port 'pc' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/uut File: tb_func_synth.v
+# ** Error: (vsim-3063) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): Port 'addr' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/uut File: tb_func_synth.v
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port '\data_reg[27] '.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port 'n_0_6695_BUFG_inst_n_1'.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port 'data3'.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port 'clk_in_BUFG'.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port 'E'.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port 'S'.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port '\data_reg[24] '.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port '\data_reg[28] '.
+# ** Warning: (vsim-3722) ../../../../mips54.srcs/sim_1/imports/new/tb.v(28): [TFMPC] - Missing connection for port '\data_reg[31] '.
+# Loading unisims_ver.x_lut3_mux4
+# Loading unisims_ver.sffsrce_fdre
+# Loading unisims_ver.x_lut2_mux4
+# Loading unisims_ver.x_lut1_mux2
+# Loading unisims_ver.ffsrce_fdce
+# Loading unisims_ver.latchsre_ldce
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./tb_simulate.do PAUSED at line 9
+# End time: 01:57:25 on Jun 15,2018, Elapsed time: 0:00:33
+# Errors: 5, Warnings: 10

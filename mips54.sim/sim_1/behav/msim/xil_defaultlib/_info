@@ -1,0 +1,458 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/youyaoyin/mips54/mips54.sim/sim_1/behav
+valu
+Z1 !s110 1532505545
+!i10b 1
+!s100 0EliZTf<5iCCATn9BN?PQ3
+Iiz`WZEM<kaY6z@Q6ST=d12
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1525286255
+8../../../mips54.srcs/sources_1/new/ALU.V
+F../../../mips54.srcs/sources_1/new/ALU.V
+Z3 L0 23
+Z4 OP;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1532505545.000000
+Z6 !s107 ../../../mips54.srcs/sources_1/new/top_id.v|../../../mips54.srcs/sources_1/new/ram.v|../../../mips54.srcs/sources_1/new/pcreg.v|../../../mips54.srcs/sources_1/new/ALU.V|../../../mips54.srcs/sources_1/new/controlunit.v|../../../mips54.srcs/sources_1/new/cp0.v|../../../mips54.srcs/sources_1/new/MDU.v|../../../mips54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+Z7 !s90 -64|-incr|-work|xil_defaultlib|../../../mips54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../mips54.srcs/sources_1/new/MDU.v|../../../mips54.srcs/sources_1/new/cp0.v|../../../mips54.srcs/sources_1/new/controlunit.v|../../../mips54.srcs/sources_1/new/ALU.V|../../../mips54.srcs/sources_1/new/pcreg.v|../../../mips54.srcs/sources_1/new/ram.v|../../../mips54.srcs/sources_1/new/top_id.v|
+!i113 1
+Z8 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vCP0
+R1
+!i10b 1
+!s100 ?f>9HZA<8J3YnboTM49GT0
+I@4:hbiAMh0VRLcTN@k_Dh3
+R2
+R0
+w1532505488
+8../../../mips54.srcs/sources_1/new/cp0.v
+F../../../mips54.srcs/sources_1/new/cp0.v
+L0 21
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@c@p0
+vdist_mem_gen_0
+R1
+!i10b 1
+!s100 6KQ8D[6DJHI8=8Yi65[T21
+II=k[U<>C0SY=V]XzE`J<Q1
+R2
+R0
+w1529428680
+8../../../mips54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v
+F../../../mips54.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v
+Z9 L0 56
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vDIV
+R1
+!i10b 1
+!s100 IcZ4];dQnPLz_2_VHJK@80
+IV17o7^YVOEZa6L9WzTk_U2
+R2
+R0
+w1528909418
+8../../../mips54.srcs/sources_1/new/DIV.v
+F../../../mips54.srcs/sources_1/new/DIV.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z10 !s107 ../../../mips54.srcs/sources_1/new/DIV.v|../../../mips54.srcs/sources_1/new/DIVU.v|../../../mips54.srcs/sources_1/new/fuck_regfile.v|../../../mips54.srcs/sources_1/new/MULT.v|../../../mips54.srcs/sources_1/new/MULTU.v|
+Z11 !s90 -64|-incr|-work|xil_defaultlib|../../../mips54.srcs/sources_1/new/MULTU.v|../../../mips54.srcs/sources_1/new/MULT.v|../../../mips54.srcs/sources_1/new/fuck_regfile.v|../../../mips54.srcs/sources_1/new/DIVU.v|../../../mips54.srcs/sources_1/new/DIV.v|
+!i113 1
+R8
+n@d@i@v
+vDIVU
+R1
+!i10b 1
+!s100 Mgmj<f;CFCD8OiCNH5_n31
+I6@d3BLSVkk[mzK7Kf^cRj3
+R2
+R0
+w1528909280
+8../../../mips54.srcs/sources_1/new/DIVU.v
+F../../../mips54.srcs/sources_1/new/DIVU.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R8
+n@d@i@v@u
+vglbl
+!s110 1532505546
+!i10b 1
+!s100 g=dL3UKAkhNRkQ:7=fPzF1
+IkJ@CGO[n5[_3E=ZkTzmEk2
+R2
+R0
+w1464879896
+8glbl.v
+Fglbl.v
+L0 6
+R4
+r1
+!s85 0
+31
+!s108 1532505546.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 1
+R8
+vMDU
+R1
+!i10b 1
+!s100 ]Sbf=nN5CleNm?jZ]:cG:1
+I:>ef==52FAEW[Ji5C=zIf0
+R2
+R0
+w1528120034
+8../../../mips54.srcs/sources_1/new/MDU.v
+F../../../mips54.srcs/sources_1/new/MDU.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@d@u
+vmips54
+R1
+!i10b 1
+!s100 C17YkaaL^^an0_W6YIn:^1
+II?@c1zl:[YoE7DKbm?Jib0
+R2
+R0
+w1532505526
+8../../../mips54.srcs/sources_1/new/controlunit.v
+F../../../mips54.srcs/sources_1/new/controlunit.v
+L0 26
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vMULT
+R1
+!i10b 1
+!s100 k@RN^m[0gf2:QLB:HQ6`S3
+IOY_K21FSkMSIIP4hL6L<m0
+R2
+R0
+w1528042215
+8../../../mips54.srcs/sources_1/new/MULT.v
+F../../../mips54.srcs/sources_1/new/MULT.v
+L0 45
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R8
+n@m@u@l@t
+vMULTU
+R1
+!i10b 1
+!s100 P_jZnCOIESL9`RklZl32k0
+I]B0?^`@j>QPLz0F?DQm0L0
+R2
+R0
+w1528042223
+8../../../mips54.srcs/sources_1/new/MULTU.v
+F../../../mips54.srcs/sources_1/new/MULTU.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R8
+n@m@u@l@t@u
+vpcreg
+R1
+!i10b 1
+!s100 _A][6>GM`Gj^BOB@@mEjK3
+I<I^[HcQ>@<iW8A01WSF=73
+R2
+R0
+w1528047995
+8../../../mips54.srcs/sources_1/new/pcreg.v
+F../../../mips54.srcs/sources_1/new/pcreg.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vram
+R1
+!i10b 1
+!s100 ShY=CKM2`T^g9T]L8NCM`1
+I665WNHOnb[D?hV^IOHFWL0
+R2
+R0
+w1528045635
+8../../../mips54.srcs/sources_1/new/ram.v
+F../../../mips54.srcs/sources_1/new/ram.v
+Z12 L0 22
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vRegFiles
+R1
+!i10b 1
+!s100 `;GWf;e:jbbCj^>4DOdmF3
+I:FX_TH@FNNUS8Y3ihF3gF3
+R2
+R0
+w1529423436
+8../../../mips54.srcs/sources_1/new/fuck_regfile.v
+F../../../mips54.srcs/sources_1/new/fuck_regfile.v
+R12
+R4
+r1
+!s85 0
+31
+R5
+R10
+R11
+!i113 1
+R8
+n@reg@files
+vsccomp_dataflow
+R1
+!i10b 1
+!s100 dDbJgUGn62oB2?Hoozn^i3
+Inze7^@73KJV0ZAi1[:0zk3
+R2
+R0
+w1532505510
+8../../../mips54.srcs/sources_1/new/top_id.v
+F../../../mips54.srcs/sources_1/new/top_id.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vxpm_memory_base
+Z13 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z14 !s110 1532505544
+!i10b 1
+!s100 ALkkJ<[dEY[i_AnYEEMcV1
+I5a1m^=;aoChRSJ1J[EioF3
+R2
+!s105 xpm_memory_base_sv_unit
+S1
+R0
+w1465086321
+8C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_base.sv
+FC:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_base.sv
+L0 57
+R4
+r1
+!s85 0
+31
+Z15 !s108 1532505544.000000
+Z16 !s107 C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_tdpram.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sprom.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_spram.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sdpram.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dprom.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dpdistram.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_base.sv|
+Z17 !s90 -64|-incr|-sv|-work|xil_defaultlib|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_base.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dpdistram.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dprom.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sdpram.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_spram.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sprom.sv|C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_tdpram.sv|
+!i113 1
+Z18 o-sv -work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vxpm_memory_dpdistram
+R13
+R14
+!i10b 1
+!s100 2LHiB`CdIUkO[Sc9:E=iZ1
+I>o[91@o7JG4MoiUOa6_Bz0
+R2
+!s105 xpm_memory_dpdistram_sv_unit
+S1
+R0
+Z19 w1465086322
+8C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dpdistram.sv
+FC:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dpdistram.sv
+R9
+R4
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R18
+vxpm_memory_dprom
+R13
+R14
+!i10b 1
+!s100 F22IH2KkLL<fQWHU]>`9X1
+IIWU9PVJFhGcJ:H?LPccIQ3
+R2
+!s105 xpm_memory_dprom_sv_unit
+S1
+R0
+R19
+8C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dprom.sv
+FC:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_dprom.sv
+R9
+R4
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R18
+vxpm_memory_sdpram
+R13
+R14
+!i10b 1
+!s100 f8gdck?OmlK:8OBRZSdbR0
+I1N32WczEnCd:SN57GQ5:>3
+R2
+!s105 xpm_memory_sdpram_sv_unit
+S1
+R0
+R19
+8C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sdpram.sv
+FC:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sdpram.sv
+R9
+R4
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R18
+vxpm_memory_spram
+R13
+R14
+!i10b 1
+!s100 dkBXkn^U]nf]Wfl;j@iLR0
+IKHZPWolQP:5ojm@;=kdEh2
+R2
+!s105 xpm_memory_spram_sv_unit
+S1
+R0
+R19
+8C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_spram.sv
+FC:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_spram.sv
+R9
+R4
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R18
+vxpm_memory_sprom
+R13
+R14
+!i10b 1
+!s100 05=F:GOZ3lGnSTPj?<=kl1
+IYR0ZYGPa[M?l>AB2[::@?1
+R2
+!s105 xpm_memory_sprom_sv_unit
+S1
+R0
+R19
+8C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sprom.sv
+FC:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_sprom.sv
+R9
+R4
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R18
+vxpm_memory_tdpram
+R13
+R14
+!i10b 1
+!s100 B]=nJbU3aV0?4PLe7TcSP1
+IO^7;e?^T1iZC=P6O6;1KN3
+R2
+!s105 xpm_memory_tdpram_sv_unit
+S1
+R0
+R19
+8C:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_tdpram.sv
+FC:/Xilinx/Vivado/2016.2/data/ip/xpm/xpm_memory/hdl/xpm_memory_tdpram.sv
+R9
+R4
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R18
